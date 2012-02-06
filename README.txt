@@ -6,4 +6,4 @@ Nå skal vi leke med diff
 
 STASH!!!
 
-Nå er vi på feature1
+Nå er vi på Feature1
