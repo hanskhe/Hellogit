@@ -10,7 +10,7 @@ STASH!!!
 Nå er vi på Feature1.0!
 
 #Feature 1#
-
+Endrer en del på feature 1
 
 #Feature 2#
 
