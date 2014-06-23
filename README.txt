@@ -17,3 +17,4 @@ Nå er vi på Feature1.0!
 
 
 #Feature 3#
+Feature 3 er kul!
