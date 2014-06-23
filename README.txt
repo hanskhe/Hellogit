@@ -15,6 +15,7 @@ Endrer en del på feature 1
 TRORORLRMGRLKNRLJNG
 Etter rebase legger vi til mer
 Legger til noe
+Finalize feature1
 
 #Feature 2#
 
