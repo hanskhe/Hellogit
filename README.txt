@@ -12,6 +12,7 @@ Nå er vi på Feature1.0!
 #Feature 1#
 Endrer en del på feature 1
 TRORORLRMGRLKNRLJNG
+Etter rebase legger vi til mer
 
 #Feature 2#
 
