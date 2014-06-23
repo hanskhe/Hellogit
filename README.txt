@@ -1,6 +1,7 @@
 #Mainsection#
 Dette er ikke lenger en test!!!!!
 
+KRITISK FIX 2!
 Dette er non en add
 
 Nå skal vi leke med diff
