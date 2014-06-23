@@ -14,6 +14,8 @@ Endrer en del på feature 1
 TRORORLRMGRLKNRLJNG
 
 #Feature 2#
-
+fjkdngkdjnd
+djknbdkjnfbd
+kjnkjn
 
 #Feature 3#
