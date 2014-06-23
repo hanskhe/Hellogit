@@ -14,6 +14,7 @@ Endrer en del på feature 1
 TRORORLRMGRLKNRLJNG
 Etter rebase legger vi til mer
 
+
 #Feature 2#
 
 
