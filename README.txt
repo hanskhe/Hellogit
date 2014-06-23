@@ -17,6 +17,8 @@ Etter rebase legger vi til mer
 Legger til noe
 
 #Feature 2#
-
+fjkdngkdjnd
+djknbdkjnfbd
+kjnkjn
 
 #Feature 3#
