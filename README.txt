@@ -18,6 +18,10 @@ Legger til noe
 Finalize feature1
 
 #Feature 2#
+fjkdngkdjnd
+djknbdkjnfbd
+kjnkjn
+That rebase made it possible to finish this feature!
 
 
 #Feature 3#
